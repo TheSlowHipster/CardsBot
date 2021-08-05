@@ -2,7 +2,7 @@
 
 ## I don't want to host this myself
 
-Click [HERE]() to add this bot to your server!
+Click [HERE](https://discord.com/api/oauth2/authorize?client_id=872969311172579379&permissions=34359831616&scope=bot) to add this bot to your server!
 
 ## I want to host this myself
 
@@ -23,7 +23,7 @@ Then use your favorite editor to set up the `secrets.json` file. Required fields
 
 ```json
 {
-  "TOKEN": TOKEN ID FROM DISCORD GOES HERE,
+  "TOKEN": "TOKEN_ID_FROM_DISCORD_GOES_HERE",
   "Guilds":[]
 }
 ```
