@@ -100,3 +100,7 @@
 2021-08-06 15:03:29,814:DEBUG:discord.client: Dispatching event socket_raw_receive
 2021-08-06 15:03:29,814:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
 2021-08-06 15:03:29,814:DEBUG:discord.client: Dispatching event socket_response
+2021-08-06 15:03:46,249:INFO:discord.client: Cleaning up tasks.
+2021-08-06 15:03:46,249:INFO:discord.client: Cleaning up after 1 tasks.
+2021-08-06 15:03:46,273:INFO:discord.client: All tasks finished cancelling.
+2021-08-06 15:03:46,273:INFO:discord.client: Closing the event loop.
