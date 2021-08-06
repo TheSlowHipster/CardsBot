@@ -2,7 +2,7 @@
 
 ## I don't want to host this myself
 
-Click [HERE](https://discord.com/api/oauth2/authorize?client_id=872969311172579379&permissions=34359831616&scope=bot) to add this bot to your server!
+Click [HERE](https://discord.com/api/oauth2/authorize?client_id=872969311172579379&permissions=51539668032&scope=bot%20applications.commands) to add this bot to your server!
 
 ## I want to host this myself
 
